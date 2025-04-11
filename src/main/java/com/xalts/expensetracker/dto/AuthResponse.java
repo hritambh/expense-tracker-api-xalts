@@ -1,4 +1,4 @@
-package com.xalts.expensetrackerapi.dto;
+package com.xalts.expensetracker.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
